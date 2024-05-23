@@ -24,7 +24,7 @@ public class Program {
 
     Console.WriteLine();
 
-    Console.WriteLine("Now, UnauthorizedAccessException is a store all about how");
+    Console.WriteLine("Now, this is a store all about how");
     Console.WriteLine("My life got flipped-turned upside down");
     Console.WriteLine("And I'd like to take a minute");
     Console.WriteLine("Just sit right there");
